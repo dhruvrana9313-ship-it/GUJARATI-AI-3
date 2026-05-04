@@ -1,0 +1,6 @@
+{
+  "name": "GujaratiVani - AI Translator & Voice",
+  "description": "A professional-grade language translator specializing in Gujarati, featuring real-time translation, voice input, and high-quality Gujarati text-to-speech.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["Translation", "Text-to-Speech", "Voice Input"]
+}
